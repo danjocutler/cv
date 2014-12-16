@@ -5,9 +5,9 @@ I'm a junior web developer. I enjoy using computers and I love making software t
 Code examples
 -------------
 
-| [Flickynotes] | [Fundrmental] | [example3] |
+| [Flickynotes] | [Fundrmental] | [Chitter] |
 |-----------------|--------- |---------- |
-| In our final project, in a team of six, we made an app that required writing notes on your smartphone and swiping, or 'flicking' them to a column based table on a computer screen. We could also use the phone's accelerometer information to move notes from one column to another. Deployed on [Meteor](http://flickynotes.meteor.com) | Rails web app that is a kickstarter for university funders, so backers have more control on what their money is spent on. Also hosted on [Heroku](https://fundrmental.herokuapp.com). | Insert third example here |
+| In our final project, in a team of six, we made an app that required writing notes on your smartphone and swiping, or 'flicking' them to a column based table on a computer screen. We could also use the phone's accelerometer information to move notes from one column to another. Deployed on [Meteor](http://flickynotes.meteor.com) | Rails web app that is a kickstarter for university funders, so backers have more control on what their money is spent on. Also hosted on [Heroku](https://fundrmental.herokuapp.com). | To get used to Sinatra and postgresql database, I built a basic twitter clone where a user can log in and write tweets, or 'peeps', for all to see. Also hosted on [Heroku](https://twitface.herokuapp.com/) |
 
 About myself
 -------------
@@ -73,8 +73,8 @@ My email address is [danjocutler@gmail.com]
 [LinkedIn]: http://www.linkedin.com/in/danjocutler
 [GitHub]: http://www.github.com/danjocutler
 [Makers Academy]: http://www.makersacademy.com
-[khushkaran@me.com]: mailto:danjocutler@gmail.com
+[danjocutler@gmail.com]: mailto:danjocutler@gmail.com
 
-<!-- [Sudoku]: https://github.com/khushkaran/sudoku-web -->
+[Chitter]: https://github.com/danjocutler/chitter
 [Fundrmental]: https://github.com/alexfakhri/University-Kickstarter
 [Flickynotes]: https://github.com/karinnielsen/Final-Project-POSTit
