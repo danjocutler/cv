@@ -51,7 +51,7 @@ Work Experience
 - preparing materials and lesson plans for all of my classes
 - subjects taught: English, Maths, Science, ICT
 
-### Coral Racing Ltd.
+### Coral Racing Ltd
 **Deputy manager
 - Managing a team and day-to-day running of the shop
 - ability to work out returns of customer's bets in case machines were down
@@ -77,4 +77,4 @@ My email address is [danjocutler@gmail.com]
 
 <!-- [Sudoku]: https://github.com/khushkaran/sudoku-web -->
 [Fundrmental]: https://github.com/alexfakhri/University-Kickstarter
-[Flickynotes]: karinnielsen/Final-Project-POSTit
+[Flickynotes]: https://github.com/karinnielsen/Final-Project-POSTit
