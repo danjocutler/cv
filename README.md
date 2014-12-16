@@ -46,13 +46,13 @@ I have always had a passion for creativity. Since the age of 8, I have had a lov
 Work Experience
 ------------
 ### Asian International School, Bali, and EF (English First), Jakarta and Bali
-**Teacher - (Feb 10 - Jun 14)**
+** Teacher - (Feb 10 - Jun 14)**
 - Form teacher, responsible for well-being of a grade 6 class
 - preparing materials and lesson plans for all of my classes
 - subjects taught: English, Maths, Science, ICT
 
 ### Coral Racing Ltd
-**Deputy manager
+** Deputy manager
 - Managing a team and day-to-day running of the shop
 - ability to work out returns of customer's bets in case machines were down
 - general daily and weekly bookkeeping
