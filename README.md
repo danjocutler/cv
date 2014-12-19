@@ -19,27 +19,54 @@ I have always had a passion for creativity. Since the age of 8, I have had a lov
 * Focus on Agile practices, especially TDD and pair programming
 
 ### Skills
+Languages
+---------
 * Ruby
-* Rails
-* JavaScript, jQuery and Ajax
-* Node and Meteor
+* JavaScript, jQuery, Angular and Ajax
 * HTML5 & ERB
 * CSS3 and Sass
-* Websockets
+* Twitter Bootstrap
+* Coffeescript
+* IO
+* GitHub Flavoured Markdown
+
+Databases
+---------
+* PostgreSQL
+* DataMapper and ActiveRecord
+* MongoDB
+
+Frameworks
+----------
+* Rails
+* Node and Meteor
 * Sinatra
+* Websockets
+
+Testing
+-------
 * Test­ Driven Development
 * Unit testing with RSpec and Jasmine
 * Integration testing with Capybara and Cucumber
-* PostgreSQL
-* DataMapper
-* MongoDB
-* Version control with git and GitHub
-* Twitter Bootstrap
+* Velocity
+
+Version control
+---------------
+* git and GitHub
+
+Deployment
+----------
+* Heroku and Meteor
+
+gems and packages
+----------------
 * User authentication and authorisation with bcrypt and Devise
 * Integration of APIs including Twilio, Stripe, Paperclip, and Mailgun
-* GitHub Flavoured Markdown
-* Deployment to Heroku
-* Agile values, principles and practice
+
+Good practices
+--------------
+* Agile values
+* SOLID principles
 * Object­ oriented principles and design
 * Pair programming
 
