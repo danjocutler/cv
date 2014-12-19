@@ -80,7 +80,7 @@ Good practices
 - subjects taught: English, Maths, Science, ICT
 
 ### Coral Racing Ltd.
-**Deputy manager**
+**Deputy manager - (Jul 06 - Jun 09)**
 - Managing a team and day-to-day running of the shop
 - ability to work out returns of customer's bets in case machines were down
 - general daily and weekly bookkeeping
