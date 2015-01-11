@@ -96,7 +96,8 @@ Good practices
 #Contact me
 
 I'm `danjocutler` on [LinkedIn] and [GitHub].
-My email address is [danjocutler@gmail.com]
+My email address is [danjocutler@gmail.com].
+My phone number is 07708 683332
 
 [LinkedIn]: http://www.linkedin.com/in/danjocutler
 [GitHub]: http://www.github.com/danjocutler
