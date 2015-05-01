@@ -4,10 +4,9 @@ I'm a junior web developer. I enjoy using computers and I love making software t
 
 #Code examples
 
-
-| [Flickynotes] | [Fundrmental] | [Tournament project] |
+| [Flickynotes] | [Fundrmental] | [Tournament project] | 
 |-------------  |-------------  |-------------
-| For our final project, using Meteor, which we had never used before, 6 of us made an app that required writing notes on your smartphone and swiping, or 'flicking' them to a column based table on a computer screen. We could also use the phone's accelerometer information to move notes from one column to another. Deployed on [Meteor](http://flickynotes.meteor.com) | Rails web app that is a kickstarter for university funders, so backers have more control on what their money is spent on. Also hosted on [Heroku](https://fundrmental.herokuapp.com). | As an 'extra-curricular' activity, we decided to make a tournament app to make use of the ever popular table tennis table at Makers Academy. Deployed on [Heroku](https://makersttt.herokuapp.com)
+| For our final project, using Meteor, which we had never used before, 6 of us made an app that required writing notes on your smartphone and swiping, or 'flicking' them to a column based table on a computer screen. We could also use the phone's accelerometer information to move notes from one column to another. Deployed on [Meteor](http://flickynotes.meteor.com) | Rails web app that is a kickstarter for university funders, so backers have more control on what their money is spent on. Also hosted on [Heroku](https://fundrmental.herokuapp.com). | As an 'extra-curricular' activity, we decided to make a tournament app to make use of the ever popular table tennis table at Makers Academy. Built in Ruby using Sinatra. Deployed on [Heroku](https://makersttt.herokuapp.com).
 
 #About myself
 
@@ -96,8 +95,6 @@ Good practices
 #Contact me
 
 I'm `danjocutler` on [LinkedIn] and [GitHub].
-My email address is [danjocutler@gmail.com].
-My phone number is 07708 683332
 
 [LinkedIn]: http://www.linkedin.com/in/danjocutler
 [GitHub]: http://www.github.com/danjocutler
