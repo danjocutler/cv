@@ -15,7 +15,8 @@ I have always had a passion for creativity. Since the age of 8, I have had a lov
 ### Wizbit Internet Services (Oct 15 - Present)
 * Junior Web Developer
 * php, HTML5 & CSS3
-* Making vibrant, responsive websites for a wide variety of clients 
+* Making vibrant, responsive websites for a wide variety of clients
+* Creating custom themes for Word Press in order for clients to easily edit content
 
 ### Makers Academy (Sep 14 - Dec 14)
 * 12-week intensive programming bootcamp
