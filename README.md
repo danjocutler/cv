@@ -10,7 +10,12 @@ I'm a junior web developer. I enjoy using computers and I love making software t
 
 #About myself
 
-I have always had a passion for creativity. Since the age of 8, I have had a love for music and have become a proficient and disciplined pianist, as well as an able guitarist. After studying music for my 'A' levels, I decided to take my creativity in a different direction at university by studying Video Production and Creative Writing. Recently I have ventured into yet another creative area by doing a 12 week programming course at Makers Academy. 
+I have always had a passion for creativity. Since the age of 8, I have had a love for music and have become a proficient and disciplined pianist, as well as an able guitarist. After studying music for my 'A' levels, I decided to take my creativity in a different direction at university by studying Video Production and Creative Writing. Recently I have ventured into yet another creative area by doing a 12 week programming course at Makers Academy.
+
+### Wizbit Internet Services (Oct 15 - Present)
+* Junior Web Developer
+* php, HTML5 & CSS3
+* Making vibrant, responsive websites for a wide variety of clients 
 
 ### Makers Academy (Sep 14 - Dec 14)
 * 12-week intensive programming bootcamp
