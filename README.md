@@ -1,35 +1,28 @@
 Daniel Joseph Cutler
 ======================
-Hello. I'm a web developer working for a company called [Wizbit Internet Services] making attractive, responsive websites in WordPress. Although occasionally clients have requested a particular theme to use, we generally build from scratch, using our own custom themes.
+Hello. I'm a web developer working for a company called [Tempcover.com]. I am responsible for all front end work related to the website including building the WordPress site (there's also a .NET side where the quote engine lives), styling all areas of the site, working with the SEO team to see that everything is as efficient as possible in that area and making sure releases go out in a smooth and timely manner.
 
 Commercial Projects
 -------------------
 
-Since starting at [Wizbit] last year, I have created many websites. Recent ones of note are:
-
-| [Griffin Glasshouses] | [Landau UK] | [Oakley Hall Park] |
+| [Tempcover.com] | [Griffin Glasshouses] | [Oakley Hall Park] |
 |-------------  |-------------  |-------------
-| Griffin Glasshouses are a company who design and build bespoke glasshouses and they needed a website to match the quality of there products. I had to use a variety of tools at my disposal, including Advanced Custom Fields Pro as well as various custom post types to create all the features they required, such as the collection menu with images and various content fields. | Landau is a fairly major player in the world of Yacht accessories. This site is one I built a little while ago, perhaps in March 2016 and again was built in WordPress. Again, I used Advanced Custom Fields Pro to give further customisation options to the site. Due to my template layout, using HTML5, CSS3 and PHP, as well as a little sprinkle of jQuery, every box, image and area of text is completely editable by a user with no web design knowledge. | Oakley Hall Park is a local Hotel in Hampshire, UK. We've recenty relaunched their new website giving it a fresher look on the outside, and a much more streamlined and fluid admin system on the inside than it had before. Once again, Advanced Custom Fields features a lot in this site, for features such as creating a gallery for the page sliders which saves them creating lots of bulky slides with Slider Revolution. We also used a lot of child page systems so that their parent pages could automatically generate child page data and render it on the screen, again making the backend a lot easier to manage.
-
-Code examples
--
-
-The code I worked on in my course is still available for viewing on my GitHub account.
-
-Some particular projects that stand out are listed below.
-
-| [Flickynotes] | [Fundrmental] | [Tournament project] |
-|-------------  |-------------  |-------------
-| For our final project, using Meteor, which we had never used before, 6 of us made an app that required writing notes on your smartphone and swiping, or 'flicking' them to a column based table on a computer screen. We could also use the phone's accelerometer information to move notes from one column to another. Deployed on [Meteor](http://flickynotes.meteor.com) | Rails web app that is a kickstarter for university funders, so backers have more control on what their money is spent on. Also hosted on [Heroku](https://fundrmental.herokuapp.com). | As an 'extra-curricular' activity, we decided to make a tournament app to make use of the ever popular table tennis table at Makers Academy. Built in Ruby using Sinatra. Deployed on [Heroku](https://makersttt.herokuapp.com).
+| Tempcover are a leading short term insurance company that provide policies for cars, vans, motorbikes and homes. This site has seen a large transformation since I joined the company as more focus has been on improving the look of the site and the user experience. Here I have built on all my programming skills as well as played more of a role in decision making for the company. | Griffin Glasshouses are a company who design and build bespoke glasshouses and they needed a website to match the quality of there products. I had to use a variety of tools at my disposal, including Advanced Custom Fields Pro as well as various custom post types to create all the features they required, such as the collection menu with images and various content fields. | Oakley Hall Park is a local Hotel in Hampshire, UK. We've recenty relaunched their new website giving it a fresher look on the outside, and a much more streamlined and fluid admin system on the inside than it had before. Once again, Advanced Custom Fields features a lot in this site, for features such as creating a gallery for the page sliders which saves them creating lots of bulky slides with Slider Revolution. We also used a lot of child page systems so that their parent pages could automatically generate child page data and render it on the screen, again making the backend a lot easier to manage.
 
 About myself
 -
 
 I have always had a passion for creativity. Since the age of 8, I have had a love for music and have become a proficient and disciplined pianist, as well as an able guitarist. After studying music for my 'A' levels, I decided to take my creativity in a different direction at university by studying Video Production and Creative Writing. Recently I have ventured into yet another creative area by doing a 12 week programming course at Makers Academy.
 
-### Wizbit Internet Services (Oct 15 - Present)
+### Tempcover.com (Jan 18 - Present)
+* Front End Developer
+* Continue to develop and improve all my programming skills
+* Responsible for all WordPress and front-end related projects and releases.
+* Liaise with the backend dev team and other departments and use TFS to keep track of all ongoing work.
+
+### Wizbit Internet Services (Oct 15 - Dec 17)
 * WordPress/PHP Web Developer
-* php, HTML5 & CSS3, JavaScript & jQuery
+* PHP, HTML5 & CSS3, JavaScript & jQuery
 * Making vibrant, responsive websites for a wide variety of clients
 * Creating custom themes for WordPress in order for clients to easily edit content
 
@@ -97,9 +90,15 @@ Good practices
 Work Experience
 -
 
+### Tempcover.com
+**Front end developer - (Jan 18 - Present)**
+* As below, but in much more depth and with little guidance.
+* Responsible for all WordPress and front-end related projects and releases.
+* Liaise with the backend dev team and other departments and use TFS to keep track of all ongoing work.
+
 ### Wizbit Internet Services
-**Junior Web Developer - (Oct 15 - Present)**
-- php, HTML5 & CSS3
+**Junior Web Developer - (Oct 15 - Dec 17)**
+- PHP, HTML5 & CSS3
 - Making vibrant, responsive websites for a wide variety of clients
 - Creating custom themes for WordPress in order for clients to easily edit content
 
@@ -131,13 +130,8 @@ I'm `danjocutler` on [LinkedIn] and [GitHub].
 [LinkedIn]: http://www.linkedin.com/in/danjocutler
 [GitHub]: http://www.github.com/danjocutler
 [Makers Academy]: http://www.makersacademy.com
-[danjocutler@gmail.com]: mailto:danjocutler@gmail.com
+[dancutler82@gmail.com]: mailto:dancutler82@gmail.com
 
-[Tournament project]: https://github.com/danjocutler/tournament_prog
-[Fundrmental]: https://github.com/alexfakhri/University-Kickstarter
-[Flickynotes]: https://github.com/karinnielsen/Final-Project-POSTit
+[Tempcover.com]: https://www.tempcover.com
 [Griffin Glasshouses]: https://www.griffinglasshouses.com/
-[Landau UK]: http://www.landauuk.com/
 [Oakley Hall Park]: https://www.oakleyhall-park.com/
-[Wizbit Internet Services]: https://www.wizbit.net/
-[Wizbit]: https://www.wizbit.net/
