@@ -46,7 +46,7 @@ Languages
 
 Databases
 ---------
-* MySQL
+* MySQL/MariaDB
 * PostgreSQL
 * DataMapper and ActiveRecord
 * MongoDB
